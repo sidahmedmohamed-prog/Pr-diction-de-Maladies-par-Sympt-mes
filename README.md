@@ -29,16 +29,13 @@ The system analyzes **132 symptoms** and predicts one of **42 diseases** with hi
 
 ---
 
-## 📊 Dataset Information
+## Dataset
 
-| Feature          | Value                      |
-| ---------------- | -------------------------- |
-| Diseases         | 42                         |
-| Symptoms         | 132                        |
-| Training Samples | 4920                       |
-| Problem Type     | Multi-Class Classification |
+- **Source :** [Disease Prediction Using Machine Learning — Kaggle](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
+- **Fichiers :** `Training.csv` (4920 patients) + `Testing.csv` (42 patients)
+- **Features :** 132 symptômes binaires (0 = absent, 1 = présent)
+- **Cible :** 42 maladies (classification multi-classe)
 
-Each record contains a set of binary symptoms associated with a specific disease.
 
 ---
 

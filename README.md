@@ -1,6 +1,6 @@
-# 🩺 Disease Prediction by Symptoms
+# 🩺 Prédiction des Maladies à partir des Symptômes
 
-> A Machine Learning application for predicting diseases from clinical symptoms using multiple classification algorithms and an interactive Streamlit web application.
+> Application de Machine Learning permettant de prédire des maladies à partir de symptômes cliniques en utilisant plusieurs algorithmes de classification et une application web interactive développée avec Streamlit.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange)
